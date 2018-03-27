@@ -8,15 +8,15 @@ user : deke
 password : ngapaya
 
 **login**
-<img src="https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.38.46.png" width="100">
+<img src="https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.38.46.png" width="200">
 
 **utama**
-![alt text](https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.39.03.png | width=75)
+<img src="https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.39.03.png" width="200">
 
 **qr code**
-![alt text](https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.39.14.png | width=75)
+<img src="https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.39.14.png" width="200">
 
 **tiket**
-![alt text](https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.40.58.png | width=75)
+<img src="https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.40.58.png" width="200">
 
 Kritik dan saranya dev.
