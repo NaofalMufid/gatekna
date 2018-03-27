@@ -8,7 +8,7 @@ user : deke
 password : ngapaya
 
 **login**
-![alt text](https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.38.46.png | width=75)
+![alt text](https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.38.46.png =75x)
 
 **utama**
 ![alt text](https://github.com/NaofalMufid/gatekna/blob/master/screenshoot/Screen%20Shot%202018-03-27%20at%2016.39.03.png | width=75)
