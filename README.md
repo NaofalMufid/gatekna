@@ -1,5 +1,8 @@
 # gatekna
+# Perhatikan
 Gatekna : gawe tiket qr codene ana
+terjemahkan : membuat tiket QR-CODE nya ada
+
 Merupakan sebuah website yang dibuat dengan tujuan untuk
 membuat tiket yang berupa file pdf yang berisi data sebuah even,data diri dan qr code untuk validasi.
 
