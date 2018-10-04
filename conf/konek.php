@@ -2,8 +2,7 @@
 $kon = null;
 
 try {
-	$kon = new PDO("mysql:host=localhost;dbname=test","root","");
-	//var_dump($kon);
+	$kon = new PDO("mysql:host=localhost;dbname=test","sapa","melbu");
 } catch (PDOException $e) {
-	var_dump($e->getMessage());
+	echo $e->getMessage();
 }
