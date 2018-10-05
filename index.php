@@ -106,7 +106,7 @@ if (empty($_SESSION['nama']))
                         
                     } else {
                         $tb = '<input type="submit" name="pejet" value="Buat QR" class="btn btn-danger">';
-                        $tkt = '<a href="phpfpdf/index.php?id='.$id.'" target="_blank" class="btn btn-success" disabled>Tiket</a>';
+                        $tkt = '<button class="btn btn-success" disabled>Tiket</button>';
                         $qr = "<span class='text-danger'> QR Kosong</span>";
                         $ket = "<span class='text-danger'> Tiket Kosong</span>";
             		}
